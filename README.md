@@ -25,12 +25,12 @@ Players are encouraged to use the apparatus in a manner like playing Connect 4, 
 - A player may choose not to place tokens. Instead, the player can press a button to
 collapse a pair of entangled tokens on board.
 - To prevent a cycling condition, where one player always collapses the tokens placed by
-the other, a player is not allowed to collapse a token unless its row or column is fully occupied This rule ensures a fair and balanced gameplay experience for both players.
+the other, a player is not allowed to collapse a token unless its row or column is fully occupied. This rule ensures a fair and balanced gameplay experience for both players.
 
 ## Related Projects
 
 [Qunnect4 Web](https://github.com/averyyang75/qunnect4-web) implements Qunnect4 in the web application format, offering cost-free accessibility and improved availability.
 
-[Qunnect4 Web game](https://qunnect4.github.io) is online now.
+[Qunnect4 Web game](https://qunnect4.app) is online now.
 
 &copy; Avery Yang
