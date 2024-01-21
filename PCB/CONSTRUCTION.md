@@ -1,6 +1,6 @@
 # Construction
 
-As tokens are grouped in pairs, there are two different designs of PCBs. 
+Each token is represented by a PCB. As tokens are grouped in pairs, there are two different designs of PCBs.
 
 ![Token 1 Schematic Design](images/Token1Schematic.png)
 ![Token 1 Board Design](images/Token1Board.png)
